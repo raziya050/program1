@@ -55,7 +55,7 @@
     <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
   </p>
 </div>
-    <h1>ADITYA ENGINEERING COLLEGE</h1>
+    <h1>ADITYA ENGINEERING COLLEGE AUTONMOUS</h1>
 <button type="button" class="btn btn-primary">Primary</button>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
